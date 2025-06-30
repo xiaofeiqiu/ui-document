@@ -1,0 +1,20 @@
+.header {
+    font-size: 164px;
+    color: rgb(255, 255, 255);
+    -unity-font-definition: url("project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=b7c4a7a7365ab455ba693d2a9574cff2&type=3#NotInter-Regular");
+    align-self: center;
+}
+
+.button {
+    align-self: center;
+    align-content: flex-start;
+    font-size: 74px;
+    width: 609px;
+    height: 166px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    padding-top: -32px;
+    margin-top: 56px;
+}
